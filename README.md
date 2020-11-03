@@ -1,3 +1,7 @@
+ ### DEMO:
+![shooter](shooter-demo.gif)
+
+ 
         openjdk 11.0.7 2020-04-14
         macOS 10.15.4 (MacBook Pro 2019)
         
@@ -11,5 +15,3 @@ controls:
 - 3 - enter level three from the start screen
   
 
-### DEMO:
-![shooter](shooter-demo.gif)
